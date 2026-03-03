@@ -14,7 +14,7 @@ This class is aligned with the JSON standard, [RFC
 
 ## Library usage
 
-This is a fork of univalue used by Bitcoin Core. It is not maintained for usage
+This is a fork of univalue used by Aixcoin Core. It is not maintained for usage
 by other projects. Notably, the API is broken in non-backward-compatible ways.
 
 Other projects looking for a maintained library should use the upstream
